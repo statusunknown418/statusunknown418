@@ -1,7 +1,7 @@
 - Hi, I’m @AlvaroAquijeDiaz
 
-- 🌱 I’m currently learning React JS and the latest Javascript ES6+ features
-- 
+- 🌱 I’m currently learning and using GraphQL with Apollo client on new projects.
+
 # Me
 - I'm currently in my 2nd year of Biomedical engineering career in Peru (born here), but I've been very interested in programming since some time ago so I decided to start a Front
 End Developer career that hopefully could get me some part time jobs while still studying, and maybe get a full time job in this, I feel very passionate about what I'm doing,
