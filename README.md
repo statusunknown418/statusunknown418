@@ -8,8 +8,8 @@ End Developer career, I feel very passionate about what I'm doing, and will love
 
 # Contact me
 - Mail: gonzalo_6824@outlook.com
-Contact me if u want :D, I'd love to colaborate on whatever project you are having trouble with or just want some help.
-
+Contact me if you want :D, I'd love to colaborate on whatever project you are having trouble with or if you just want some help.
+- **Actively searching for a job**
 <!---
 Lol
 --->
