@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning and using MongoDB with Mongoose, ExpressJS and GraphQL with Apollo client on new projects.
 
 # Me
-- I'm a Biomedical engineering, but I've been very interested in programming since some time ago, so I decided to start a Front
+- I'm a Biomedical engineer, but I've been very interested in programming since some time ago, so I decided to start a Front
 End Developer career, and now I'm onto a Fullstack career path for what I feel very passionate about.
 
 # Contact me
