@@ -7,7 +7,7 @@
 End Developer career, and now I'm onto a Fullstack career path for what I feel very passionate about.
 
 # Contact me
-- Mail: gonzalo_6824@outlook.com
+- Mail: alvarodevcode@outlook.com
 Contact me if you want :D, I'd love to colaborate on whatever project you are having trouble with or if just want some help.
 - **Actively searching for a job**
 <!---
