@@ -1,6 +1,6 @@
 - Hi, I’m @AlvaroAquijeDiaz
 
-- 🌱 I’m currently learning and using MongoDB with Mongoose, ExpressJS and GraphQL with Apollo client on new projects.
+- Starting with web3 🚀
 
 # Me
 - I'm a Biomedical engineer, but I've been very interested in programming since some time ago, so I decided to start a Front
