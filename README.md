@@ -1,6 +1,6 @@
 - Hi, I’m @AlvaroAquijeDiaz
 
-- Learning web3 🚀 - Rust Lang (seems quite nice!)
+- Learning Golang, just for fun
 
 # Me
 - I'm a Biomedical engineer, but I've been very interested in programming since some time ago, so I decided to start a Front
