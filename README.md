@@ -1,6 +1,6 @@
 - Hi, I’m @AlvaroAquijeDiaz
 
-- Learning Golang, just for fun
+- Learning Rust (ppl like to say it'll make you a better programmer), just for fun
 
 # Me
 - I'm a Biomedical engineer, but I've been very interested in programming since some time ago, so I decided to start a Front
