@@ -1,5 +1,4 @@
-# Me
-- I love to build things!
+- I love to build stuff
 
 # Contact me
 - Mail: alvaro.aquije@icloud.com
